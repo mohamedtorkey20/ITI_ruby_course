@@ -1,1 +1,0 @@
-{:isbn=>"33", :title=>"fffffffffff", :author=>"gggggggggggggggggg"}

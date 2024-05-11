@@ -1,0 +1,8 @@
+20240511195420 -- info -- Processing Transactions User Ali transaction with value -20, User Ali transaction with value -30, User Ali transaction with value -50, User Ali transaction with value -100, User Ali transaction with value -100, User Menna transaction with value -100...
+20240511195420 -- info -- User Ali transaction with value -20 succeeded
+20240511195420 -- info -- User Ali transaction with value -30 succeeded
+20240511195420 -- info -- User Ali transaction with value -50 succeeded
+20240511195420 -- warning -- Ali has 0 balance
+20240511195420 -- info -- User Ali transaction with value -100 succeeded
+20240511195420 -- error -- User Ali transaction with value -100 failed with message Not enough balance
+20240511195420 -- error -- User Menna transaction with value -100 failed with message Menna not exist in the bank!!
